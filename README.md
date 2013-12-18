@@ -7,4 +7,4 @@ This assignment was completed for my Artificial Intelligence module.
 
 how to use...
 
-./Run.sh <numberOfRuns>
+./Run.sh <b>[numberOfRuns]</b>
